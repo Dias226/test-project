@@ -128,18 +128,6 @@ a.card-link:hover {
   color: #000000;
 }
 
-.card__metro::before {
-  content: '';
-  margin-right: 10px;
-  display: inline-block;
-  vertical-align: baseline;
-  width: 16px;
-  height: 11px;
-  background-image: url('./../img/icons/metro.svg');
-  background-repeat: no-repeat;
-  background-size: initial;
-}
-
 .card__address {
   font-size: 14px;
   line-height: 1.14;
